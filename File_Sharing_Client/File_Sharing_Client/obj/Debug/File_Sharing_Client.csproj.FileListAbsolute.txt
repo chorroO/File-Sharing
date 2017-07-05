@@ -1,0 +1,9 @@
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\bin\Debug\File_Sharing_Client.exe.config
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\bin\Debug\File_Sharing_Client.exe
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\bin\Debug\File_Sharing_Client.pdb
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\obj\Debug\File_Sharing_Client.Form1.resources
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\obj\Debug\File_Sharing_Client.Properties.Resources.resources
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\obj\Debug\File_Sharing_Client.csproj.GenerateResource.Cache
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\obj\Debug\File_Sharing_Client.exe
+c:\users\chorro\documents\visual studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\obj\Debug\File_Sharing_Client.pdb
+C:\Users\ChoRRo\Documents\Visual Studio 2017\Projects\File_Sharing_Client\File_Sharing_Client\obj\Debug\File_Sharing_Client.csprojResolveAssemblyReference.cache
