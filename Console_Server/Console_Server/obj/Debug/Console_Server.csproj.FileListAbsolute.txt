@@ -1,0 +1,6 @@
+c:\users\chorro\documents\visual studio 2017\Projects\Console_Server\Console_Server\bin\Debug\Console_Server.exe.config
+c:\users\chorro\documents\visual studio 2017\Projects\Console_Server\Console_Server\bin\Debug\Console_Server.exe
+c:\users\chorro\documents\visual studio 2017\Projects\Console_Server\Console_Server\bin\Debug\Console_Server.pdb
+c:\users\chorro\documents\visual studio 2017\Projects\Console_Server\Console_Server\obj\Debug\Console_Server.exe
+c:\users\chorro\documents\visual studio 2017\Projects\Console_Server\Console_Server\obj\Debug\Console_Server.pdb
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\Console_Server\Console_Server\obj\Debug\Console_Server.csprojResolveAssemblyReference.cache
